@@ -3,7 +3,7 @@ html{ font-size:16px; /*base size setting*/
   #navbar{
   padding-right: 1rem;
 }
-#navba li{ list-style-type: none;
+#navbar li{ list-style-type: none;
   
   display: inline-block;
   font-size: 1.25rem;
