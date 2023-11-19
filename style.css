@@ -1,15 +1,17 @@
-#navba{
-  padding-right: 1em;
+html{ font-size:16px;
+    }
+  #navba{
+  padding-right: 1rem;
 }
 #navba li{ list-style-type: none;
   
   display: inline-block;
-  font-size: 1.25em;
-  padding-left: 1em;
-  padding-top: 1em;
-  padding-right: 1em;
-  padding-bottom: 1em;
-  margin-left: 1.56em;}
+  font-size: 1.25rem;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  margin-left: 1.56rem;}
 a.navbar{
   text-decoration: none;
 color: white;}
@@ -21,9 +23,9 @@ color: white;}
 }
 .sticker{
   position: fixed;
-  right: 0.625em;
-  height: 6.25em;
-  width: 6.25em;
+  right: 0.625rem;
+  height: 6.25rem;
+  width: 6.25rem;
 }
 body{
   background-color: antiquewhite;
@@ -32,69 +34,69 @@ body{
   font-size: 16px; /*setting base font size*/
 }
 img.twowomen{
-  width: 78.125em;
-  height: 32.89em;
+  width: 78.125rem;
+  height: 32.89rem;
 }
 #welcome{
   color: #fd3c3d;
   text-align: center; 
-  font-size: 1.875em; 
+  font-size: 1.875rem; 
   font-family: inherit; 
   font-style: italic; 
-  margin-bottom: 0.625em;
+  margin-bottom: 0.625rem;
 }
 #quote{
-  margin-bottom: 3.125em; font-size :1.25em; text-align:center; font-style:italic;
+  margin-bottom: 3.125rem; font-size :1.25rem; text-align:center; font-style:italic;
 }
 span.activites{
   font-style: italic; font-size: large;
 }
 img.activites{ display: inline-flex;
-width: 26.25em;}
+width: 26.25rem;}
 #strength{
-  width: 25.9375em;
+  width: 25.9375rem;
 }
 #bhangra{
-  width: 26.25em;
-  height: 31.25em;
+  width: 26.25rem;
+  height: 31.25rem;
 }
 #video{
-  height: 31.25em;
-  width:48.25em;
+  height: 31.25rem;
+  width:48.25rem;
 }
 #zumba{
-  width: 25.9375em;
+  width: 25.9375rem;
 }
 .row3,.row1{
   display: inline-flex; text-align: center;
 }
 h3.ourstory{
-  color: red; margin: 1em, 0, 0.5em; text-align: center;
+  color: red; margin: 1rem, 0, 0.5rem; text-align: center;
 }
 p.ourstory{
-  font-size: 30px;
-  margin: 0px,0px,1em; 
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; padding-left: 1em; justify-content: center;
+  font-size: 1.875rem;
+  margin: 0px,0px,1rem; 
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; padding-left: 1rem; justify-content: center;
 }
 div.ourstory{
-  margin-top: 2.5em; background-color: black; color: white; font-size: 1.875em; display: inline-flex;
+  margin-top: 2.5rem; background-color: black; color: white; font-size: 1.875rem; display: inline-flex;
 }
 img.ourstory{
-  padding: 1em 1em;
-  width:13.8em ;
-  height: 11.95em;
+  padding: 1rem 1rem;
+  width:13.8rem ;
+  height: 11.95rem;
 }
 div.banks{
-  display: inline-flex; text-align: center; margin-right: 0.3125em; margin-left: 0.3125em;
+  display: inline-flex; text-align: center; margin-right: 0.3125rem; margin-left: 0.3125rem;
 }
 span.banks{
-  font-size: 1.25em;
+  font-size: 1.25rem;
 }
 div.hotdeals { color: black; text-align: center;}
-img.banks { width: 21.25em; height: 12.5em;}
+img.banks { width: 21.25rem; height: 12.5rem;}
 
 div.advantages{
-  padding-bottom: 2em; padding-right: 0.3125em;  background-color: black; color: white; padding-top: 0.3125em;
+  padding-bottom: 2rem; padding-right: 0.3125rem;  background-color: black; color: white; padding-top: 0.3125rem;
 }
 div.heading{
   color: #fd3c3d; text-align: center; text-decoration: underline;
@@ -102,8 +104,8 @@ div.heading{
   .part1{
     display: inline-flex;
   }
-  .cwhole { padding-left: 1em;
-  padding-right: 1em;
+  .cwhole { padding-left: 1rem;
+  padding-right: 1rem;
   max-width: 50%;}
   div.cwhole{display:block;
   }
@@ -113,49 +115,49 @@ div.heading{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
-.features{padding-left: 3em; padding-top: 1em;}
+.features{padding-left: 3rem; padding-top: 1rem;}
 .subfeatures{min-width: 25%;}
 
-img.featured{ height: 9.375em; width: 14em; margin-left: 0.3125em;
-  padding-left: 3em; padding-right: 2em;
+img.featured{ height: 9.375rem; width: 14rem; margin-left: 0.3125rem;
+  padding-left: 3rem; padding-right: 2rem;
 }
   div.freetrial{
     color: white; 
     background-color: rgb(81 176 185); 
-    padding-top: 1em; 
-    padding-left: 1em;
-    padding-bottom: 5em; 
-    border-radius: 0.3125em; 
+    padding-top: 1rem; 
+    padding-left: 1rem;
+    padding-bottom: 5rem; 
+    border-radius: 0.3125rem; 
     border-style: double; 
-    margin-top: 0.625em;
+    margin-top: 0.625rem;
   }
   div.details{
-    padding-left: 0.3125em;
-    padding-bottom: 0.3125em; 
-    padding-right: 0.3125em; 
+    padding-left: 0.3125rem;
+    padding-bottom: 0.3125rem; 
+    padding-right: 0.3125rem; 
     min-width: 30%; 
-    font-size: 1.25em;
+    font-size: 1.25rem;
   }
   input.details{
     
-    width: 20em;
+    width: 20rem;
   }
   div.branch{
-    margin-left: 1.5em; 
-    margin-top: 1em; 
-    padding-left: 0.3125em;
+    margin-left: 1.5rem; 
+    margin-top: 1rem; 
+    padding-left: 0.3125rem;
   }
   input.branch{
-    width: 70.5em;
+    width: 70.5rem;
   }
 
 .btn{
-  border-radius: 1em;
+  border-radius: 1rem;
   border: none; 
   float: inline-end; 
-  padding-right: 0.3125em;  
-  height: 3em; 
-  margin-top: 1em; background-color: rgb(27 187 21 / 61%); 
+  padding-right: 0.3125rem;  
+  height: 3rem; 
+  margin-top: 1rem; background-color: rgb(27 187 21 / 61%); 
   margin-right: 50%; 
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: black;
 }
@@ -166,46 +168,46 @@ img.featured{ height: 9.375em; width: 14em; margin-left: 0.3125em;
 }
 div.list{
   column-count: 4; 
-  padding-left: 3.43em; 
+  padding-left: 3.43rem; 
   
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 li.net{
-  padding-top:0.4em;
-  padding-bottom: 0.4em;
-  font-size: 1em;
+  padding-top:0.4rem;
+  padding-bottom: 0.4rem;
+  font-size: 1rem;
 }
 span.social{
   text-align: center;
-  color: white; font-size: 1.25em; margin-bottom: 1.5625em; margin-top: 1em;
+  color: white; font-size: 1.25rem; margin-bottom: 1.5625rem; margin-top: 1rem;
 }
 img.square{
-  width: 3.125em;
-  height: 3.125em;
+  width: 3.125rem;
+  height: 3.125rem;
 }
 img.rectangle{
-  height: 3.125em;
-  width: 4.375em;
+  height: 3.125rem;
+  width: 4.375rem;
 }
 div.FAQS{
-  margin-top: 3.75em;
-  padding-bottom: 0.3125em;
+  margin-top: 3.75rem;
+  padding-bottom: 0.3125rem;
   background-color: rgba(0, 0, 0, 0.47);
 }
 div.faqc1{
-  width: 90%; padding-left: 0.3125em;
+  width: 90%; padding-left: 0.3125rem;
 }
 div.faqc2{
-  padding-left: 1.5625em; margin-left: 0.5em;
+  padding-left: 1.5625rem; margin-left: 0.5rem;
 }
 .question{
-  font-size: 1.5625em;
+  font-size: 1.5625rem;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: rgb(162, 142, 128);
-  padding-top: 0.75em;
+  padding-top: 0.75rem;
 }
 .answer{
-  font-size: 1.25em;
+  font-size: 1.25rem;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: white;
 }
@@ -222,10 +224,10 @@ body.outro{
 div.outro{
   background-color: rgba(128, 128, 128, 0.74);
   color: #3cedfd;
-  font-size: 1.25em;
+  font-size: 1.25rem;
   margin-top: 20%;
-  padding-left: 0.3125em;
-  padding-right: 0.3125em;
-  padding-bottom: 0.3125em;
-  padding-top: 0.3125em;
+  padding-left: 0.3125rem;
+  padding-right: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  padding-top: 0.3125rem;
 }
