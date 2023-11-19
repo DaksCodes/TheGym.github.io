@@ -1,9 +1,9 @@
-html{ font-size:16px;
+html{ font-size:16px; /*base size setting*/
     }
-  #navba{
+  #navbar{
   padding-right: 1rem;
 }
-#navba li{ list-style-type: none;
+#navbar li{ list-style-type: none;
   
   display: inline-block;
   font-size: 1.25rem;
@@ -15,12 +15,14 @@ html{ font-size:16px;
 a.navbar{
   text-decoration: none;
 color: white;}
+/*hover styling*/
 .navbar:hover{
   background-color: rgb(60, 104, 146);
   color: black;
   cursor: pointer;
   font-style: italic;
 }
+/*sticky element*/
 .sticker{
   position: fixed;
   right: 0.625rem;
@@ -33,6 +35,7 @@ body{
   padding: 0;
   font-size: 16px; /*setting base font size*/
 }
+
 img.twowomen{
   width: 78.125rem;
   height: 32.89rem;
