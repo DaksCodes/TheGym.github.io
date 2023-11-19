@@ -22,21 +22,7 @@ color: white;}
   cursor: pointer;
   font-style: italic;
 }
-/*dropdown*/
-.dropdowncontent{
-  display: none; 
-  background-color: rgb(72, 71, 71); 
-  color: rgb(255, 255, 255); 
-  z-index: 1;
-  position: absolute;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  padding-left: 0.5rem;
-  padding-right: 1rem;
-}
-.navbard:hover .dropdowncontent{
-  display: block;
-}
+
 /*sticky element*/
 .sticker{
   position: fixed;
